@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Mar 14 21:46:49 EET 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019c-ede3-19cc-00000f1e3920 
+on database directory C:\Users\7odzz\Downloads\data of aast\advProgramming\db\AAST with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@105be200 
+Loaded from file:/C:/Users/7odzz/Downloads/data%20of%20aast/advProgramming/boilerplates/week2-derby-boilerplate/libs/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=25.0.1+8-LTS
+user.dir=C:\Users\7odzz\Downloads\data of aast\advProgramming
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["src"],
+  // this file ely byfhm vs code el libararies eli hast5dmha 
+  "java.project.referencedLibraries": ["libs/*.jar"]
+
+}
